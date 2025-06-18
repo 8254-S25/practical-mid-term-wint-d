@@ -1,12 +1,20 @@
-total 40
-drwxr-xr-x 2 pi pi 4096 May 13 01:10 Bookshelf
-drwxr-xr-x 2 pi pi 4096 May 13 01:17 Desktop
-drwxr-xr-x 2 pi pi 4096 May 13 01:18 Documents
-drwxr-xr-x 2 pi pi 4096 May 13 01:18 Downloads
-drwxr-xr-x 2 pi pi 4096 May 13 01:18 Music
-drwxr-xr-x 2 pi pi 4096 May 13 01:18 Pictures
--rw-r--r-- 1 pi pi    0 Jun 18 15:35 pr1.txt
-drwxr-xr-x 2 pi pi 4096 May 13 01:18 Public
-drwxr-xr-x 2 pi pi 4096 May 13 01:18 Templates
-drwxr-xr-x 2 pi pi 4096 May 13 01:18 Videos
--rw-r--r-- 1 pi pi   24 Jun 18 15:31 wintdamrhung.txt
+total 72
+drwxr-xr-x 2 pi pi 4096 May 12 20:10 Bookshelf
+drwxr-xr-x 2 pi pi 4096 May 12 20:17 Desktop
+drwxr-xr-x 2 pi pi 4096 May 12 20:18 Documents
+drwxr-xr-x 2 pi pi 4096 May 12 20:18 Downloads
+drwxr-xr-x 2 pi pi 4096 Jun 18 10:42 midtermExam-301
+-rw-r--r-- 1 pi pi   28 Jun 18 10:48 midtermPi.txt
+-rw-r--r-- 1 pi pi    9 Jun 18 10:49 mt.txt
+drwxr-xr-x 2 pi pi 4096 May 12 20:18 Music
+drwxr-xr-x 2 pi pi 4096 May 12 20:18 Pictures
+-rw---xr-- 1 pi pi    0 Jun 18 11:55 pr1.txt
+-rw-r--r-- 1 pi pi  614 Jun 18 10:45 pr2.txt
+-rw-r--r-- 1 pi pi  270 Jun 18 10:58 pr3.txt
+-rw-r--r-- 1 pi pi  845 Jun 18 11:24 pr4.txt
+-rw-r--r-- 1 pi pi  111 Jun 18 11:24 pr5.txt
+-rw-r--r-- 1 pi pi  391 Jun 18 10:49 pr.txt
+drwxr-xr-x 2 pi pi 4096 May 12 20:18 Public
+drwxr-xr-x 2 pi pi 4096 May 12 20:18 Templates
+drwxr-xr-x 2 pi pi 4096 May 12 20:18 Videos
+-rw-r--r-- 1 pi pi   24 Jun 18 10:31 wintdamrhung.txt

@@ -18,3 +18,26 @@
 └── wintdamrhung.txt
 
 11 directories, 7 files
+.
+├── Bookshelf
+│   └── BeginnersGuide-5thEd-Eng_v4.pdf
+├── Desktop
+├── Documents
+├── Downloads
+├── midtermExam-301
+├── midtermPi.txt
+├── mt.txt
+├── Music
+├── Pictures
+├── pr1.txt
+├── pr2.txt
+├── pr3.txt
+├── pr4.txt
+├── pr5.txt
+├── pr.txt
+├── Public
+├── Templates
+├── Videos
+└── wintdamrhung.txt
+
+11 directories, 10 files
