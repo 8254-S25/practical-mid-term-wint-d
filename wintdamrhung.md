@@ -27,7 +27,7 @@ ls -l > pr1.txt
 **4. What are the permissions of the file you just created?**
 
 ```
--rw-r--r--
+-rw---xr-- 1 pi pi  890 Jun 18 11:55 pr1.txt
 ```
 
 **5. What command do you use to display the folder you are currently working from?**
@@ -51,7 +51,7 @@ mkdir midtermExam-301
 **8. What are the permissions of this new folder  ?**
 
 ```
-drwxr-xr-x
+drwxr-xr-x 2 pi pi 4096 Jun 18 11:57 midtermExam-301
 ```
 
 **9. What command do you use to list the ports your raspberry pi is listening to? Try it using the `-at` flag.**
